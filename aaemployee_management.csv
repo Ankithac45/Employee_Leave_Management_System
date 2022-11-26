@@ -1,0 +1,16 @@
+"id","name","email","gender","dob","password","dp"
+"12","boss1","boss1@boss.com","Female","2000-02-23","1234",
+"id","name","email","gender","dob","password","salary","dp"
+"13","emp1","emp1@emp.com","Male","2006-06-25","1234","121123","60df10fa13c124.43381995marco-mons-ROWNIiEV9iM-unsplash.jpg"
+"14","emp2","emp2@emp.com","Female","2000-07-09","1234","120000","60df15c11c4505.59875888marco-mons-ROWNIiEV9iM-unsplash.png"
+"id","reason","start_date","last_date","email","status"
+"28"," Maternity leave","2022-11-27","2023-05-30","emp2@emp.com","Accepted"
+"30"," Casual leave","2022-12-02","2023-02-01","emp1@emp.com","pending"
+"31"," FamilyTour","2022-11-30","2022-12-02","emp1@emp.com","pending"
+"holiday_id","holiday_name","startdate","enddate"
+"1","Christmas and New Year","2022-12-25","2022-12-30"
+"2","Ganesh Chathurti","2022-09-01","2022-09-01"
+"3","Kannada Rajyostava","2022-11-01","2022-11-01"
+"id","name","email","gender","dob","password","dp"
+"12","manager1","manager1@manager.com","Male","2000-02-02","1234",
+"13","Ankitha C","ankithac45@gmail.com","Female","2002-09-02","1234",
