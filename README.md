@@ -1,5 +1,5 @@
 # Employee_Leave_Management_System
-## This is the an website with three interfaces, namely Employee, Manager and Boss. Each of the Interfaces has privileges as per the role.
+## This is a website with three interfaces, namely Employee, Manager and Boss. Each of the Interfaces has privileges as per the role.
 ## Index Page
 Login options for three different roles will be shown. Click on your corresponding role.
 ## Login Page
